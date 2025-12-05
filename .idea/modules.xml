@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Fase 1/Fase 1.iml" filepath="$PROJECT_DIR$/Fase 1/Fase 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fase 2/Fase 2.iml" filepath="$PROJECT_DIR$/Fase 2/Fase 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fase 3/Fase 3.iml" filepath="$PROJECT_DIR$/Fase 3/Fase 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fase 4/Fase 4.iml" filepath="$PROJECT_DIR$/Fase 4/Fase 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fase 5/Fase 5.iml" filepath="$PROJECT_DIR$/Fase 5/Fase 5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fase 6/Fase 6.iml" filepath="$PROJECT_DIR$/Fase 6/Fase 6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fase 7/Fase 7.iml" filepath="$PROJECT_DIR$/Fase 7/Fase 7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Final/Final.iml" filepath="$PROJECT_DIR$/Final/Final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MAPA - Imersão Profissional Aplicando Orientação a Objetos.iml" filepath="$PROJECT_DIR$/.idea/MAPA - Imersão Profissional Aplicando Orientação a Objetos.iml" />
+    </modules>
+  </component>
+</project>
